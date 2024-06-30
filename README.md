@@ -21,6 +21,6 @@
    ![LunarLander](LunarLander-v2.png)
 2. [FrozenLake-v1(8x8 map)](https://gymnasium.farama.org/environments/toy_text/frozen_lake/)
    #### Before Training
-   ![FrozenLake-v1](FrozenLake beforetraining (1).gif)
+   ![FrozenLake-v1](FrozenLake%20beforetraining.gif)
    #### After Training
-   ![FrozenLake-v1](FrozenLake aftertraining .gif)
+   ![FrozenLake-v1](FrozenLake%20aftertraining%20.gif)
