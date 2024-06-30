@@ -40,15 +40,10 @@
    ![Bipedal Walker](https://gymnasium.farama.org/_images/bipedal_walker.gif)
    #### After Training
    ![Bipedal Walker](Bipedal%20Walker.gif)
-1. [Bipedal Walker](https://gymnasium.farama.org/environments/box2d/bipedal_walker/)
+2. [Humanoid-v4](https://gymnasium.farama.org/environments/mujoco/humanoid/)
 
    #### Before Training
-   ![Bipedal Walker](https://gymnasium.farama.org/_images/bipedal_walker.gif)
+   ![Humanoid-v4](https://gymnasium.farama.org/_images/humanoid.gif)
    #### After Training
-   ![Bipedal Walker](Bipedal%20Walker.gif)
-1. [Bipedal Walker](https://gymnasium.farama.org/environments/box2d/bipedal_walker/)
+   ![Humanoid-v4](Humanoid-v4.gif)
 
-   #### Before Training
-   ![Bipedal Walker](https://gymnasium.farama.org/_images/bipedal_walker.gif)
-   #### After Training
-   ![Bipedal Walker](Bipedal%20Walker.gif)
