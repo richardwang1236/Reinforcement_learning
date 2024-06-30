@@ -24,3 +24,10 @@
    ![FrozenLake-v1](FrozenLake%20beforetraining.gif)
    #### After Training
    ![FrozenLake-v1](FrozenLake%20aftertraining%20.gif)
+3. [Cart Pole]((https://gymnasium.farama.org/environments/classic_control/cart_pole/)
+   #### Before Training
+   ![Cart Pole](https://gymnasium.farama.org/_images/cart_pole.gif)
+   #### After Training
+   ![Cart Pole](CartPole.gif)
+   #### Training curve
+   ![Cart Pole](CartPole-v1.png)
