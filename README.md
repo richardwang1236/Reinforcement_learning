@@ -31,3 +31,24 @@
    ![Cart Pole](CartPole.gif)
    #### Training curve
    ![Cart Pole](CartPole-v1.png)
+## SAC
+
+### Example: 
+1. [Bipedal Walker](https://gymnasium.farama.org/environments/box2d/bipedal_walker/)
+
+   #### Before Training
+   ![Bipedal Walker](https://gymnasium.farama.org/_images/bipedal_walker.gif)
+   #### After Training
+   ![Bipedal Walker](Bipedal%20Walker.gif)
+1. [Bipedal Walker](https://gymnasium.farama.org/environments/box2d/bipedal_walker/)
+
+   #### Before Training
+   ![Bipedal Walker](https://gymnasium.farama.org/_images/bipedal_walker.gif)
+   #### After Training
+   ![Bipedal Walker](Bipedal%20Walker.gif)
+1. [Bipedal Walker](https://gymnasium.farama.org/environments/box2d/bipedal_walker/)
+
+   #### Before Training
+   ![Bipedal Walker](https://gymnasium.farama.org/_images/bipedal_walker.gif)
+   #### After Training
+   ![Bipedal Walker](Bipedal%20Walker.gif)
