@@ -43,7 +43,7 @@
 2. [Humanoid-v4](https://gymnasium.farama.org/environments/mujoco/humanoid/)
 
    #### Before Training
-   ![Humanoid-v4](https://gymnasium.farama.org/_images/humanoid.gif)
+   ![Humanoid-v4](humanoid.gif)
    #### After Training
    ![Humanoid-v4](Humanoid-v4.gif)
 
